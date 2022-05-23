@@ -45,9 +45,9 @@ Neural Network
 
 - LSTM-AE
 
-## 4**. Result**
+## **4. Result**
 
-## 5. Conclusion & Discussion
+## **5. Conclusion & Discussion**
 
 ---
 
