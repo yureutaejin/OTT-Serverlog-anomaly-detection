@@ -31,6 +31,7 @@ final_result_answer => 제출된 라벨링 데이터셋
 - KNN 보간법
 - 서버별 Fail 비율 구하기 / 각 서버별 데이터 split
 - Autocorrelation visualizaition
+- Stationarity 시각화
 - ADF Test
 - 서버별 상관계수
 
