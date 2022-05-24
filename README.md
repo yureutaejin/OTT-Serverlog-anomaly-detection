@@ -195,7 +195,7 @@ ex)
 
 ![final_pipeline ipynb 확인 필요 ex) visualization 예시](analysis%20report%200f449e7733fa47c8977e957a39410796/acf.png)
 
-- Stationarity 시각화 ⇒ 평균과 
+- Stationarity 시각화 ⇒ 평균과 분산 이용
 
 ex)
 
