@@ -193,6 +193,12 @@ K-NN(k nearest neighbours) 이란 classification에 사용되는 간단한 알�
 
 ex)
 
+![final_pipeline ipynb 확인 필요 ex) visualization 예시](analysis%20report%200f449e7733fa47c8977e957a39410796/acf.png)
+
+- Stationarity 시각화 ⇒ 평균과 
+
+ex)
+
 ![final_pipeline ipynb 확인 필요 ex) visualization 예시](analysis%20report%200f449e7733fa47c8977e957a39410796/Untitled%2010.png)
 
 final_pipeline ipynb 확인 필요 ex) visualization 예시
